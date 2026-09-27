@@ -18,6 +18,7 @@ GEONMI-MEMS engine VLEO is a next-generation, high-efficiency orbital station-ke
 Strictly Civilian & Commercial: Designed from the ground up for commercial satellite constellations, Earth observation, global telecommunications, and environmental monitoring. This technology is 100% out of the military scope.
 
 Eco-Friendly (Green Space Technology): Utilizes sustainable green propellants and eco-conscious materials, eliminating toxic residues and supporting sustainable orbital operations to keep space clean for future generations.
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e85165df-df19-42e3-89c4-75e9b798b55e" />
 
 https://github.com/user-attachments/assets/41ac237b-847f-4bfb-b075-0a0a83aefcac
 
