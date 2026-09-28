@@ -1,6 +1,4 @@
-# GEONMI-MEMS-VLEO-AeroCore-3 | ABEP-Enabled Hybrid Alloy Architecture [250km VLEO]
 
-## 🔒 INTELLECTUAL PROPERTY & OFFICIAL WARNING NOTICE
 
 # GEONMI-MEMS-VLEO-AeroCore-3 | ABEP-Enabled Hybrid Alloy Architecture [250km VLEO]
 
