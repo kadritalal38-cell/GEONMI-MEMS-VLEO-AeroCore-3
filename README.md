@@ -12,7 +12,7 @@
 ---
 
 ### 🎬 System Validation - ABEP Operation [250km]
-[ضع رابط الفيديو هنا]
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/511f27b0-e064-41dc-a010-1fb5d663db04" />
 
 ---
 
