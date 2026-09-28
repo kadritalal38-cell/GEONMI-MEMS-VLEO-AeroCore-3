@@ -14,6 +14,7 @@
 ### 🎬 System Validation - ABEP Operation [250km]
 <img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/511f27b0-e064-41dc-a010-1fb5d663db04" />
 
+https://github.com/user-attachments/assets/f70caa1a-c32c-4def-800b-d340b7a5a82e
 ---
 
 ### 💡 Core Innovation - AeroCore-3 Hybrid Alloy
