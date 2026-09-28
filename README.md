@@ -1,10 +1,14 @@
 # GEONMI-MEMS-VLEO-AeroCore-3 | ABEP-Enabled Hybrid Alloy Architecture [250km VLEO]
 
 ## 🔒 INTELLECTUAL PROPERTY & OFFICIAL WARNING NOTICE
-**SOLE OWNER & DEVELOPER:** Mohamed Talal Kadri
-**CONTACT:** kadritalal38@gmail.com | kadritalal84@gmail.com
-**ALL RIGHTS RESERVED © 2026** - Composition, stoichiometry and lattice structure are strictly private, patent pending. Stored in private repository under NDA.
 
+# GEONMI-MEMS-VLEO-AeroCore-3 | ABEP-Enabled Hybrid Alloy Architecture [250km VLEO]
+
+## 🔒 INTELLECTUAL PROPERTY
+**Sole Owner & Developer of this work: Mohamed Talal Kadri**
+
+## ⚠️ OFFICIAL LEGAL WARNING
+**Any copying, modification, reuse, or distribution of any part of this work without exclusive written permission from the owner is strictly prohibited under full legal liability. The core file is closed and private in a separate repository for total confidentiality.**
 > **⚠️ PROJECT SCOPE CLARIFICATION:**
 > **This is a STANDALONE hardware project. It does NOT contain Engine2.**
 > **It is a separate hybrid alloy framework designed for MAXIMUM INTEGRATION with GEONMI-MEMS-VLEO-Engine2. It can be offered as an independent product/offer compatible with Engine2.**
