@@ -50,6 +50,7 @@ Operating in VLEO presents significant atmospheric drag challenges, historically
 
 ## 💎 Financial ROI & Cost-Reduction Model
 
+<img width="1248" height="832" alt="Image" src="https://github.com/user-attachments/assets/f4bdc125-8a0d-417b-ab8e-b3e591ab8816" />
 GEONMI is built from the ground up to maximize the Return on Investment (**ROI**) for commercial satellite operators, CubeSat constellations, and VLEO platform providers.
 
 | ROI Vector | Traditional VLEO Platforms | GEONMI Architecture Integrated |
