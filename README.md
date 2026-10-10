@@ -7,7 +7,7 @@
 ## 🔒 INTELLECTUAL PROPERTY & LEGAL NOTICE
 
 **SOLE OWNER & DEVELOPER:** Mohamed Talal Kadri  
-**PRIMARY CONTACTS:** [kadritalal38@gmail.com](mailto:kadritalal38@gmail.com) | [kadritalal84@gmail.com](mailto:kadritalal84@gmail.com)  
+**PRIMARY CONTACTS:** [kadritalal84@gmail.com](mailto:kadritalal84@gmail.com)  
 
 **ALL RIGHTS RESERVED © 2026 Mohamed Talal Kadri.**
 
@@ -102,7 +102,6 @@ To view the real-time Hardware-in-the-Loop (HIL) simulation engine and the dynam
 For partnership opportunities, commercial licensing agreements, evaluation inquiries, or technical briefings:
 
 * **Sole Owner & Developer:** Mohamed Talal Kadri
-* **Direct Email:** [kadritalal38@gmail.com](mailto:kadritalal38@gmail.com)
-* **Secondary Email:** [kadritalal84@gmail.com](mailto:kadritalal84@gmail.com)
+* **Direct Email:** [kadritalal84@gmail.com](mailto:kadritalal84@gmail.com)
 
 *Notice: Access to source repositories and technical verification benchmarks is provided strictly under signed Non-Disclosure Agreements (NDA) to vetted commercial aerospace entities.*
