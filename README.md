@@ -72,6 +72,9 @@ GEONMI is built from the ground up to maximize the Return on Investment (**ROI**
 * **Zone-Optimized Structural Mapping:** Dynamic chemistry models tailoring material behavior for specific structural regions (Leading Edge, Internal Tanks, Core Frame).
 * **Advanced Particle Trapping Geometry:** Structural surface optimization techniques that balance aerodynamic drag reduction against ion capturing efficiency.
 
+Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+
+
 ### 💻 3. Deterministic Autonomous Flight Control
 * **Zero-Heap Allocation:** Guaranteed O(1) constant execution time with no runtime dynamic memory allocations (`new`/`delete` deleted at compile-time).
 * **Pure C++17 Standard:** Compliant with strict real-time aerospace software standards (100Hz deterministic sampling rate, Δ t = 10ms).
