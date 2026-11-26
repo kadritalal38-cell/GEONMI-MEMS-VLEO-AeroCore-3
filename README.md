@@ -22,6 +22,8 @@ The **GEONMI Integrated Spacecraft Core** provides a next-generation flight cont
 
 Operating in VLEO presents significant atmospheric drag challenges, historically requiring heavy, expensive propulsion systems. GEONMI solves this bottleneck by unifying **aero-ionic environmental energy harvesting** with **deterministic 100Hz closed-loop station-keeping**, drastically reducing total launch mass and operational expenditures (OPEX) while expanding satellite lifetimes.
 
+<img width="1366" height="768" alt="image_3d131d12" src="https://github.com/user-attachments/assets/a9232ace-121b-4747-acd3-5c554dfa6473" />
+
 ### 🗺️ Subsystem Architecture Flow
 
 <pre>
