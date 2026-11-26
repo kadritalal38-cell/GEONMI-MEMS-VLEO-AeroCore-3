@@ -1,10 +1,10 @@
-# 🛰️ GEONMI™ Integrated Spacecraft Architecture
+#  GEONMI™ Integrated Spacecraft Architecture
 
-### 🏷️ `#VLEO_Propulsion` `#Satellite_Mass_Reduction` `#Aerospace_Embedded_Systems` `#Commercial_Space_ROI` `#Ionospheric_Energy_Harvesting` `#Zero_Heap_CPP` `#NewSpace_Constellations`
+### `#VLEO_Propulsion` `#Satellite_Mass_Reduction` `#Aerospace_Embedded_Systems` `#Commercial_Space_ROI` `#Ionospheric_Energy_Harvesting` `#Zero_Heap_CPP` `#NewSpace_Constellations`
 
 [![]([https://shields.io](https://shields.io))](https://wikipedia.org) [![]([https://shields.io](https://shields.io))](https://misra.org.uk) [![]([https://shields.io](https://shields.io))](https://wikipedia.org)
 
-## 🔒 INTELLECTUAL PROPERTY & LEGAL NOTICE
+##  INTELLECTUAL PROPERTY & LEGAL NOTICE
 
 **SOLE OWNER & DEVELOPER:** Mohamed Talal Kadri  
 **PRIMARY CONTACTS:**talal.works38@gmail.com 
@@ -24,7 +24,7 @@ Operating in VLEO presents significant atmospheric drag challenges, historically
 
 <img width="1366" height="768" alt="image_3d131d12" src="https://github.com/user-attachments/assets/a9232ace-121b-4747-acd3-5c554dfa6473" />
 
-### 🗺️ Subsystem Architecture Flow
+### Subsystem Architecture Flow
 
 <pre>
 +-------------------------------------------------------+
@@ -51,34 +51,34 @@ Operating in VLEO presents significant atmospheric drag challenges, historically
 +-------------------------------------------------------+
 </pre>
 
-## 💎 Financial ROI & Cost-Reduction Model
+##  Financial ROI & Cost-Reduction Model
 
 <img width="1248" height="832" alt="Image" src="https://github.com/user-attachments/assets/f4bdc125-8a0d-417b-ab8e-b3e591ab8816" />
 GEONMI is built from the ground up to maximize the Return on Investment (**ROI**) for commercial satellite operators, CubeSat constellations, and VLEO platform providers.
 
 | ROI Vector | Traditional VLEO Platforms | GEONMI Architecture Integrated |
 | :--- | :--- | :--- |
-| 🔹 **Launch Mass / Payload Ratio** | High wet mass required due to excessive fuel payloads for drag compensation. | **Up to 40% reduction in wet mass**, allowing more revenue-generating sensors/payloads per launch. |
-| 🔹 **Operational Lifetime** | Rapid propellant depletion limits mission span to 6–12 months. | **Extended mission duration** via in-situ ionospheric energy harvesting and optimized mass-flow control. |
-| 🔹 **Launch Cost Efficiency** | Expensive high-mass launch manifests. | **Dramatically lowered Cost-per-Kilogram**; enables higher unit density per rideshare launch. |
-| 🔹 **Hardware Longevity** | High risk of power bus brownouts and thermal-electrical degradation. | **Dynamic ESD gating** protects onboard battery buses, reducing mission failure risk. |
+| **Launch Mass / Payload Ratio** | High wet mass required due to excessive fuel payloads for drag compensation. | **Up to 40% reduction in wet mass**, allowing more revenue-generating sensors/payloads per launch. |
+| **Operational Lifetime** | Rapid propellant depletion limits mission span to 6–12 months. | **Extended mission duration** via in-situ ionospheric energy harvesting and optimized mass-flow control. |
+| **Launch Cost Efficiency** | Expensive high-mass launch manifests. | **Dramatically lowered Cost-per-Kilogram**; enables higher unit density per rideshare launch. |
+| **Hardware Longevity** | High risk of power bus brownouts and thermal-electrical degradation. | **Dynamic ESD gating** protects onboard battery buses, reducing mission failure risk. |
 
-## 🧪 Technical & Architectural Highlights
+## Technical & Architectural Highlights
 *(Presented at a high-level conceptual framework without exposing core parameter constants, matrix ratios, or proprietary formulas.)*
 
-### 🔋 1. Aero-Ionic Power Harvesting System
+### 1. Aero-Ionic Power Harvesting System
 * **In-Situ Environmental Capture:** Utilizes ambient ionospheric plasma interactions at orbital speeds (~7.5 km/s) to collect passive energy directly from the VLEO environment.
 * **Multi-Layer ESD Protection:** Integrated software-defined gating automatically routes transient voltage spikes safely back to space plasma, protecting internal payload systems.
 * **Auxiliary Bus Charging:** Supplements internal propulsion battery buses to maintain operational margins under variable drag environments.
 
-### 📐 2. Micro-Chemical & Geometric Matrix Framework
+###  2. Micro-Chemical & Geometric Matrix Framework
 * **Zone-Optimized Structural Mapping:** Dynamic chemistry models tailoring material behavior for specific structural regions (Leading Edge, Internal Tanks, Core Frame).
 * **Advanced Particle Trapping Geometry:** Structural surface optimization techniques that balance aerodynamic drag reduction against ion capturing efficiency.
 
 Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
 
 
-### 💻 3. Deterministic Autonomous Flight Control
+### 3. Deterministic Autonomous Flight Control
 * **Zero-Heap Allocation:** Guaranteed O(1) constant execution time with no runtime dynamic memory allocations (`new`/`delete` deleted at compile-time).
 * **Pure C++17 Standard:** Compliant with strict real-time aerospace software standards (100Hz deterministic sampling rate, Δ t = 10ms).
 * **Tsiolkovsky-Integrated Mass Flow:** Continuously models dynamic satellite mass decay to optimize thruster output and prevent propellant waste.
@@ -87,20 +87,20 @@ Disclaimer: All financial figures provided herein are purely hypothetical, estim
 
 | Parameter | Specification / Standard |
 | :--- | :--- |
-| ⚙️ **Language Target** | C++17 (Pure ISO C++, Zero External Dependencies) |
-| 🧠 **Memory Architecture** | Zero-Heap / Static Allocation Only (MISRA C++ Compliant Paradigm) |
-| ⏱️ **Execution Loop Frequency** | 100 Hz Deterministic Loop (Δ t = 10 ms) |
-| 🌍 **Target Orbit** | Very Low Earth Orbit (VLEO, nominal 250 km) |
-| 🚀 **Target Application** | Commercial SmallSats, CubeSats, and Earth Observation Satellites |
-| 💼 **Domain Scope** | Strictly Commercial Civilian Aerospace |
+| **Language Target** | C++17 (Pure ISO C++, Zero External Dependencies) |
+| **Memory Architecture** | Zero-Heap / Static Allocation Only (MISRA C++ Compliant Paradigm) |
+| **Execution Loop Frequency** | 100 Hz Deterministic Loop (Δ t = 10 ms) |
+| **Target Orbit** | Very Low Earth Orbit (VLEO, nominal 250 km) |
+| **Target Application** | Commercial SmallSats, CubeSats, and Earth Observation Satellites |
+| **Domain Scope** | Strictly Commercial Civilian Aerospace |
 
-## 🎯 Commercial & Strategic Roadmap
+## Commercial & Strategic Roadmap
 
 * **Phase 1 (HIL Validation):** Complete real-time Hardware-in-the-Loop constraints testing under simulated low-density ionospheric physics.
 * **Phase 2 (Orbital Vectoring):** Refine deterministic edge-case handling for transient magnetorquer cross-coupling anomalies.
 * **Phase 3 (Constellation Integration):** Standardize static matrix frameworks for multi-agent VLEO platform coordination.
 
-## 🤝 Commercial Inquiries & Licensing
+## Commercial Inquiries & Licensing
 
 To view the real-time Hardware-in-the-Loop (HIL) simulation engine and the dynamics of this architecture in GNSS-denied environments, visit:  
 🔗 **[GEONMI MEMS VLEO Engine 2 Simulation](https://github.com)**
