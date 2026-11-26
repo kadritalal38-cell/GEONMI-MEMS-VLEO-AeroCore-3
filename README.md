@@ -83,7 +83,7 @@ Disclaimer: All financial figures provided herein are purely hypothetical, estim
 * **Pure C++17 Standard:** Compliant with strict real-time aerospace software standards (100Hz deterministic sampling rate, Δ t = 10ms).
 * **Tsiolkovsky-Integrated Mass Flow:** Continuously models dynamic satellite mass decay to optimize thruster output and prevent propellant waste.
 
-## ⚙️ Technical Specifications Overview
+##  Technical Specifications Overview
 
 | Parameter | Specification / Standard |
 | :--- | :--- |
