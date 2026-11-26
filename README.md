@@ -14,8 +14,9 @@
 * **Commercial Scope:** This software architecture and its underlying algorithms are developed **strictly and exclusively for commercial satellite applications** (Earth observation, VLEO telecommunications, and low-altitude orbital platforms). It is strictly outside any military scope or usage framework.
 * **Repository Isolation:** The core source implementation (`GEONMI_Integrated_Spacecraft_Core.hpp`) is maintained within a strictly isolated, private, and encrypted internal repository to safeguard proprietary algorithms, structural chemistry matrix formulations, and harvesting coefficients.
 * **Unauthorized Usage:** Unlawful distribution, reverse engineering, unauthorized compilation, or reproduction of the structural equations and logic without prior written consent from Mohamed Talal Kadri is strictly prohibited under international copyright laws and trade secret protections.
+<img width="797" height="1021" alt="image_76a4c67e" src="https://github.com/user-attachments/assets/0c42f131-7bae-44cb-9a5e-60e82f762cc2" />
 
-## 🚀 Executive Summary & Core Value Proposition
+##  Executive Summary & Core Value Proposition
 
 The **GEONMI Integrated Spacecraft Core** provides a next-generation flight control and power assistance solution optimized for Very Low Earth Orbit (**VLEO**, ~250 km altitude). 
 
